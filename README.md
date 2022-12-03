@@ -24,13 +24,13 @@
 ### Google Meets To Phone
 
 
-`src_zm_phone_relay_low`: https://cmu.box.com/shared/static/zicc29em54x2thw1ak2vi0wxd6pmoygd
+`src_gm_phone_relay_low`: https://cmu.box.com/shared/static/zicc29em54x2thw1ak2vi0wxd6pmoygd
 
-`src_zm_phone_relay_auto`: https://cmu.box.com/shared/static/x4akm7p4m8o0on4rylwtpc2ms63z8k8f
+`src_gm_phone_relay_auto`: https://cmu.box.com/shared/static/x4akm7p4m8o0on4rylwtpc2ms63z8k8f
 
-`nrm_zm_phone_relay_low`: https://cmu.box.com/shared/static/6t15164ntx2h17u28rdy5tkz4exynblq
+`nrm_gm_phone_relay_low`: https://cmu.box.com/shared/static/6t15164ntx2h17u28rdy5tkz4exynblq
 
-`nrm_zm_phone_relay_auto`: https://cmu.box.com/shared/static/tz2ni6vik64ll8fg8ec30wq0zk4tyf37
+`nrm_gm_phone_relay_auto`: https://cmu.box.com/shared/static/tz2ni6vik64ll8fg8ec30wq0zk4tyf37
 
 
 ### Original
