@@ -2,6 +2,15 @@
 
 ## Test Partitions
 
+- `src` = Source Audio
+- `nrm` = Normalized Audio
+- `zm`  = Zoom
+- `gm`  = Google Meets
+- `cloud` = Audio Relayed To Cloud.
+- `phone` = Audio Relayed To Phone.
+- `low` = Low Denoising Setting
+- `auto` = Auto Denoising Settting
+
 ### Zoom To Cloud
 
 `src_zm_cloud_relay_low`: https://cmu.box.com/shared/static/da4yt8ihopl7jxnjl5bitxfqpq2q14ea
