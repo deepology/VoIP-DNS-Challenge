@@ -46,28 +46,29 @@
 - `nrm_clean`: https://cmu.box.com/shared/static/lafj6q4kkk0fww6y6gijq3gfolu5joy1
 - `nrm_noisy`: https://cmu.box.com/shared/static/2x96tb02ymeqqpgcqgtv6a4mxgg3ie6s
 
-## Train Partitions
+## Train Partitions (1/3)
 
 ### Zoom To Cloud
 
-src_zm_cloud_relay_low: https://cmu.box.com/s/t2dkw2ocb5wx08nh86jb861l1uhqyfds
-src_zm_cloud_relay_auto: https://cmu.box.com/s/gl4rh7dk535wl2l5zvf1ptom1n87iaql
+- `src_zm_cloud_relay_low`: https://cmu.box.com/shared/static/t2dkw2ocb5wx08nh86jb861l1uhqyfds
+- `src_zm_cloud_relay_auto`: https://cmu.box.com/shared/static/gl4rh7dk535wl2l5zvf1ptom1n87iaql
 
 ### Zoom To Phone
 
-src_zm_phone_relay_low: https://cmu.box.com/s/yavlvg7touvxjok7sfn58neud6a3iuj5
-src_zm_phone_relay_auto: https://cmu.box.com/s/qbngbdrpojd1v0zw0fnpp72j7styrqae
+- `src_zm_phone_relay_low`: https://cmu.box.com/shared/static/yavlvg7touvxjok7sfn58neud6a3iuj5
+- `src_zm_phone_relay_auto`: https://cmu.box.com/shared/static/qbngbdrpojd1v0zw0fnpp72j7styrqae
 
 ### Google Meets To Cloud
 
-src_gm_cloud_relay_auto: https://cmu.box.com/s/oqucql868ce17kk7lbei48son1holvxh
-src_gm_cloud_relay_low: https://cmu.box.com/s/k0l49zdfefgyn0h7mwcnnvas5f8n7kks
+- `src_gm_cloud_relay_low`: https://cmu.box.com/shared/static/k0l49zdfefgyn0h7mwcnnvas5f8n7kks
+- `src_gm_cloud_relay_auto`: https://cmu.box.com/shared/static/oqucql868ce17kk7lbei48son1holvxh
 
 ### Google Meets To Phone
 
-src_gm_phone_relay_low: https://cmu.box.com/s/jd9jg24ik1e95gt17hz16cwuhghdqnsi
-src_gm_phone_relay_auto: https://cmu.box.com/s/ozmxm2syw8mthngs80r0tul3vm7htefk
+- `src_gm_phone_relay_low`: https://cmu.box.com/shared/static/jd9jg24ik1e95gt17hz16cwuhghdqnsi
+- `src_gm_phone_relay_auto`: https://cmu.box.com/shared/static/ozmxm2syw8mthngs80r0tul3vm7htefk
 
 ### Original
 
-
+- `src_clean`: https://cmu.box.com/shared/static/f3kyi0f2ptoe4klfayao34l82ahrq6sh
+- `src_noisy`: https://cmu.box.com/shared/static/w14n5z61shpkbtwnx1ej7zl1n5ei39n8
