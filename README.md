@@ -32,6 +32,17 @@
 - `src_clean`: https://cmu.box.com/shared/static/z6f1iz3nic2d31zxnix3bn4ge7lz69p1
 - `src_noisy`: https://cmu.box.com/shared/static/cds26b2grgekszptc17a1ckljuocqyzq
 
+## (Optional) Gain Normalization
+
+```
+def gain_normalize(waveform):
+
+    amplitude = np.iinfo(np.int16).max
+    waveform = np.int16(0.8 * amplitude * waveform / np.max(np.abs(waveform)))
+
+    return waveform
+```
+
 <!--
 
 ## Train Partitions (1/3)
