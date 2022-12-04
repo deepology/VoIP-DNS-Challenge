@@ -40,7 +40,7 @@ import numpy as np
 def gain_normalize(waveform):
 
     amplitude = np.iinfo(np.int16).max
-    waveform = np.int16(0.8 * amplitude * waveform / np.max(np.abs(waveform)))
+    waveform  = np.int16(0.8 * amplitude * waveform / np.max(np.abs(waveform)))
 
     return waveform
 ```
