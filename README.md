@@ -11,6 +11,9 @@
 - `low` = Low Denoising Setting
 - `auto` = Auto Denoising Settting
 
+
+<!--
+
 ### Zoom To Cloud
 
 - `src_zm_cloud_relay_low`: https://cmu.box.com/shared/static/da4yt8ihopl7jxnjl5bitxfqpq2q14ea
@@ -46,7 +49,7 @@
 - `nrm_clean`: https://cmu.box.com/shared/static/lafj6q4kkk0fww6y6gijq3gfolu5joy1
 - `nrm_noisy`: https://cmu.box.com/shared/static/2x96tb02ymeqqpgcqgtv6a4mxgg3ie6s
 
-<!--## Train Partitions (1/3)
+## Train Partitions (1/3)
 
 ### Zoom To Cloud
 
