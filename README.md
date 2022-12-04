@@ -35,6 +35,8 @@
 ## (Optional) Gain Normalization
 
 ```
+import numpy as np
+
 def gain_normalize(waveform):
 
     amplitude = np.iinfo(np.int16).max
