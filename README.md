@@ -28,20 +28,10 @@
 - `src_clean`: https://cmu.box.com/shared/static/z6f1iz3nic2d31zxnix3bn4ge7lz69p1
 - `src_noisy`: https://cmu.box.com/shared/static/cds26b2grgekszptc17a1ckljuocqyzq
 
-## Train Partitions (1/3)
+## Train Partitions [Aesthetic Update Pending]
 
-
-### Transmitted Audio (Industrial Denoising OFF
-- Google Meet To Cloud (`src_gm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/yii2dlegeh2c6mq8vxkqs3wwbhpc0qfl
-- Google Meet To Phone (`src_gm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/8xvo964542i0binzfrrcq6nrbser0cc5
-- Zoom To Cloud (`src_zm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/zk0su4veohr7t4lxesxx117ofzfypzqp
-- Zoom To Phone (`src_zm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/dve4yqo2cdfnn8lpp6mo8vddkxac3x2z
-
-### Transmitted Audio (Industrial Denoising ON)
-- Google Meet To Cloud (`src_gm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/fjkhw6sif94own77pua3x1dm264bpj8n
-- Google Meet To Phone (`src_gm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/ibel9iy81ig13pml34b1zasnki470lmh
-- Zoom To Cloud (`src_zm_cloud_relay_auto`):<br>https://cmu.box.com/shared/static/ddxaemvjzli8oih3zn7i569ypov1fqs3
-- Zoom To Phone (`src_zm_phone_relay_auto`):<br>https://cmu.box.com/shared/static/65seuub7gwbhlphkdphk8b44sugojqa8
+All Sets:
+https://drive.google.com/drive/folders/1hIVTl26mu7zAvMFYY6HTGYSdhNYy41Oz?usp=sharing
 
 ### Original Audio
 
